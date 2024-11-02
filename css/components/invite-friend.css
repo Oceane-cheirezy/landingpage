@@ -1,0 +1,46 @@
+.invite-friend {
+    max-width: 550px;
+    margin: 0px auto;
+    margin-top: 40px;
+    padding: 50px;
+    border: 1px solid #d2d9f4;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.invite-friend h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.invite-friend label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+}
+
+.invite-friend input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.invite-friend button {
+    padding: 10px 15px;
+    font-size: 1em;
+    color: white;
+    background-color: #3594e2;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.invite-friend button:hover {
+    background-color: #a3caf1;
+}

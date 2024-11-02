@@ -1,0 +1,36 @@
+.btn-blue {
+	background-color: #3594e2;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-blue1 {
+	background-color: #9ed4db;
+	padding: 10px 11px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.btn-blue2 {
+	background-color: #88b8e9;
+	padding: 10px 11px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-blue3 {
+	background-color: #8fa6ec;
+	padding: 10px 11px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
